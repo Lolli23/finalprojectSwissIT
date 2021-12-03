@@ -1,0 +1,104 @@
+
+/* #ef6c00 orange darken-3 
+font-family: 'Cormorant SC', serif;
+font-family: 'Montserrat', sans-serif;
+*/
+
+
+@font-face {
+    font-family: "Romance Sunshine Sans" ;
+    src: url(font/Romance\ Sunshine\ Sans.ttf) format('truetype');
+}
+
+*{
+  
+    color: #00796b;
+}
+
+.main-header .active-link { 
+    background: #009688; 
+}
+
+.main-header .nav{
+    
+    font-family:'Cormorant SC', serif !important;
+}
+
+
+.main-header .brand-logo {
+    text-align: left !important ;
+    font-family: 'Cormorant SC', serif !important;
+    font-size: 25px;
+}
+
+
+.parallax-container {
+    height: 500px;
+}
+
+.footer-one {
+    background: #b2dfdb;
+}
+.footer-two {
+    background: #4db6ac ;
+}
+.freviews .card-panel {
+    background-color:#4db6ac !important;
+}
+
+
+
+
+
+.main-header .il {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.myslider {
+    background: cover;
+    background: 100%;
+}
+
+.h3 {
+    color: #4db6ac;
+    font-family: 'Pacifico', cursive !important;
+}
+
+.section.section-welcome .h3 {
+    font-family: 'Pacifico', cursive !important;
+}
+
+
+/* .mymessage { */
+    /* position: relative; */
+/* } */
+.mymessage .card-panel {
+    /* margin-left: 250px; */
+    /* width: 600px; */
+    background: #e0f2f1 ;
+    box-shadow: 1px 10px 10px #90a4ae;
+}
+.mymessage .btn-large
+{
+  
+    background: #4db6ac ;
+    width: 200px;
+    left: 45%;    
+}
+
+.followus {
+    position: relative;
+}
+
+.white-text {
+    margin-top: 20px;
+}
+
+.gallery-container {
+    margin-bottom: 20px;
+}
+
+.carousel-slider {
+    padding-top: 200px;
+    height: 800px;
+}
